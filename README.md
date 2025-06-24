@@ -47,7 +47,7 @@ hanari_bakery/
 
 # Pembagian tugas anggota team
 - Anggota 1: Struktur Class & Interface (UMAR)
-- Anggota 2: Simulasi Produksi & Profit README.MD (FATIH)
+- Anggota 2: Simulasi Produksi,Profit & README.MD (FATIH)
 - Anggota 3: Menu Program,Testing & README.MD     (RAIHAN)
 
 
