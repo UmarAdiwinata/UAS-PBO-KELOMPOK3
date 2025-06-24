@@ -22,6 +22,11 @@ hanari_bakery/
 ├── services/
 ├── utils/
 
+![Diagram UML](img/UML.png)
+![Flowchart](img/flowchart.png)
+
+
+
 
 # Konsep OOP & SOLID
 - Abstraction : Class `ProdukRoti` sebagai abstraksi umum
@@ -31,14 +36,18 @@ hanari_bakery/
 - Single Responsibility : Setiap class hanya memiliki satu tanggung jawab
 
 # Screenshot output yang dihasilkan ketika program dijalankan
-(Sisipkan screenshot output terminal dan proses simulasi)
+![Tampilkan](img/PBO1tampilkproduk.png)
+![Profit](img/PBO2profit.png)
+![Simulasi](img/PBO3simulasi.png)
+![Tambah Produk](img/PBO4tambah.png)
+![Hasil Tambah Produk](img/PBO5hasilproduk.png)
 
 # Link GitHub
 [                                    ]
 
 # Pembagian tugas anggota team
-- Anggota 1: Struktur Class & Interface
-- Anggota 2: Simulasi Produksi & Profit
-- Anggota 3: Menu Program & Testing
+- Anggota 1: Struktur Class & Interface (UMAR)
+- Anggota 2: Simulasi Produksi & Profit README.MD (FATIH)
+- Anggota 3: Menu Program,Testing & README.MD     (RAIHAN)
 
 
