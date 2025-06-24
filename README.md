@@ -43,7 +43,7 @@ hanari_bakery/
 ![Hasil Tambah Produk](img/PBO5hasilproduk.png)
 
 # Link GitHub
-[                                    ]
+[https://github.com/UmarAdiwinata/UAS-PBO-KELOMPOK3]                                   ]
 
 # Pembagian tugas anggota team
 - Anggota 1: Struktur Class & Interface (UMAR)
